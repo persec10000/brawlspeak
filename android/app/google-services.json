@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "34158655925",
+    "firebase_url": "https://brawl-talk-for-brawl-stars.firebaseio.com",
+    "project_id": "brawl-talk-for-brawl-stars",
+    "storage_bucket": "brawl-talk-for-brawl-stars.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34158655925:android:bb4c0ecc0083096c3901fc",
+        "android_client_info": {
+          "package_name": "com.drsimple.brawlspeak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34158655925-247gtsn62656u4i5avoe8p96hrcgnvoh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJeXe681AnTrlQW8rRWFduY_QaRLt2BKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34158655925-247gtsn62656u4i5avoe8p96hrcgnvoh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,1 @@
+Google play store url: https://play.google.com/store/apps/details?id=com.drsimple.brawlspeak&hl=en
